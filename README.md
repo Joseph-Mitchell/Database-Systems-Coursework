@@ -5,4 +5,6 @@ The coursework revolved around a database for a proposed haulage company and is 
 
 Part 1 involved creating a series of SELECT statements to retrieve specified data from the database, while part 2 required the alteration of the database to create desired changes.
 
-The haulage.sql file is used to create the initial given database.
+The haulage.sql file is used to create the initial given database. Below is a diagram of the initial database:
+
+!(/img/database.png)
